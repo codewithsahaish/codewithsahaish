@@ -24,13 +24,14 @@ I enjoy turning ideas into clean, functional and visually appealing web experien
 
 ### 🌐 Business Website
 
-A modern, responsive business website designed with a clean and professional interface.
+A modern and responsive business website built with a clean, professional design. 
+The website is optimized for desktop and mobile devices and includes smooth 
+navigation, responsive layouts and interactive elements.
 
-**Tech:** HTML, CSS, JavaScript
+**Tech Stack:** HTML5 • CSS3 • JavaScript
 
-🔗 [Live Website](https://codewithsahaish.github.io/Business-website/)
-
----
+🔗 **[Live Demo](https://codewithsahaish.github.io/Business-website/)**  
+📂 **[View Source Code](https://github.com/codewithsahaish/Business-website)**
 
 ### 🤖 AI Health Assistant
 
