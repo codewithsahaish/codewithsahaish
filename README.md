@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Sahaish Idrisi
 
-<!--
-**codewithsahaish/codewithsahaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Web Developer
 
-Here are some ideas to get you started:
+I build modern, responsive and user-friendly websites using HTML, CSS and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into clean, functional and visually appealing web experiences.
+
+---
+
+## 🛠️ Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- Git & GitHub
+- GitHub Pages
+- AI-assisted Development
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Business Website
+
+A modern, responsive business website designed with a clean and professional interface.
+
+**Tech:** HTML, CSS, JavaScript
+
+🔗 [Live Website](https://codewithsahaish.github.io/Business-website/)
+
+---
+
+### 🤖 AI Health Assistant
+
+An AI-powered healthcare web application designed to help users manage everyday health-related tasks.
+
+**Tech:** JavaScript, HTML, CSS
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm currently available for freelance web development projects.
+
+I can help with:
+
+- Business websites
+- Landing pages
+- Responsive website design
+- Website redesigns
+- Frontend development
+- Website deployment
+
+---
+
+## 📫 Let's Connect
+
+🌐 **Portfolio:** [Business Website](https://codewithsahaish.github.io/Business-website/)
+
+📧 **Email:** sahaishidrisi@gmail.com
+
+---
+
+### ⚡ Always learning. Always building.
