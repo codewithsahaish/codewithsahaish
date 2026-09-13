@@ -39,6 +39,15 @@ An AI-powered healthcare web application designed to help users manage everyday 
 **Tech:** JavaScript, HTML, CSS
 
 ---
+## 💼 My Services
+
+I help businesses and individuals build professional websites that look great and work smoothly across desktop and mobile devices.
+
+- 🌐 Business Website Development
+- 🎨 Responsive Website Design
+- 💻 Frontend Development
+- ⚡ Website Redesign & Improvements
+- 🚀 Website Deployment & GitHub Pages
 
 ## 🎯 What I'm Looking For
 
