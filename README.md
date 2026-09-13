@@ -31,9 +31,7 @@ A modern, responsive business website designed with a clean and professional int
 🔗 [Live Website](https://codewithsahaish.github.io/Business-website/)
 
 ---
-## 📸 Website Preview
 
-![NovaTech Business Website](screenshots/screenshots.png)
 ### 🤖 AI Health Assistant
 
 An AI-powered healthcare web application designed to help users manage everyday health-related tasks.
